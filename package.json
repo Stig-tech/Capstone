@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@types/jquery": "^3.5.33",
-    "esbuild": "^0.20.0",
+    "esbuild": "^0.20.2",
     "sass": "^1.97.3"
   }
 }
