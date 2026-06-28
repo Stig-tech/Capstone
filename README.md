@@ -2,6 +2,8 @@
 
 A full-stack news aggregation and summarization web application that fetches current headlines, clusters related stories, generates AI summaries, stores the results in PostgreSQL, and exposes them through API endpoints for a frontend client.
 
+Link: https://capstone-rose-mu.vercel.app/
+
 # Purpose
 The world is filled with a constant flood of news, and the ability to stay informed in today’s fast-paced world is a struggle for many people. Be it long, complex articles or watching out for bias, it leads people not to stay informed. The main objective of this project is to create a website that would summarize and explain news articles.
 
